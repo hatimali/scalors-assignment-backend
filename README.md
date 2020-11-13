@@ -60,3 +60,13 @@ Please use celery to implement the delayed execution.
 
 Please note that we don't accept solutions without periodic commits or if we are unable to execute the solution.
 
+
+## Steps to execute the project
+1. Enable the virtual environment (Commands for windows): 
+    1.1 python -m venv <env_name>
+    1.2 <env_name>\Scripts\activate.bat
+
+2. Run requirements.txt to install dependencies: pip install -r requirements.txt
+
+3. Go to URL: http://localhost:8000/
+

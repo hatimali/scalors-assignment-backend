@@ -1,0 +1,4 @@
+Django==1.10
+djangorestframework==3.5
+celery[redis]==4
+requests
